@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SIDHARTHA-DAS
-- 👀 I’m interested in ...Web devlopment
+- 👋 Hi, I’m @SIDHARTH-DAS
+- 👀 I’m interested in ...Web development
 - 🌱 I’m currently learning ...HTML CSS & JAVASCRIPT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...By @instgram
