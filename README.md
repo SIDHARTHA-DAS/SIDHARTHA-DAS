@@ -32,7 +32,7 @@ const sidharth = {
 - 🚗 **CarBuy** — End-to-end car rental system with JWT auth & admin dashboard
 - 📚 **BookStore** — MERN book management platform with Redux Toolkit & role-based access
 - 💡 Passionate about clean code, scalable architecture & building products that solve real problems
-- 📬 Reach me at **sidharthadas963@gmail.com** — I reply to every message
+- 📬 Reach me at **sidharthadas2849@gmail.com** — I reply to every message
 
 ---
 
