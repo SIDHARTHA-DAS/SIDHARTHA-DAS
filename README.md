@@ -23,7 +23,7 @@ const sidharth = {
   education: "B.Tech CSE · Gandhi Institute for Technology (GIFT) · 2021–2025",
   focus:     ["React.js", "Node.js", "MongoDB", "REST APIs"],
   status:    "Open to Work · SDE / Full Stack Developer roles",
-  contact:   "sidharthadas963@gmail.com"
+  contact:   "sidharthadas2849@gmail.com"
 };
 ```
 
